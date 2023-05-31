@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq "bin" /etc/passwd | sort | wc -l
+uniq "bin" /etc/passwd | wc -l
